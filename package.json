@@ -20,7 +20,7 @@
     "@notionhq/client": "^2.2.3",
     "@oclif/core": "^1.23.0",
     "@oclif/plugin-help": "^5",
-    "@oclif/plugin-plugins": "^2.1.9",
+    "@oclif/plugin-plugins": "^2.3.0",
     "@types/prompts": "^2.4.2",
     "misskey-js": "^0.0.14",
     "prompts": "^2.4.2"
